@@ -7,3 +7,4 @@ make all install
 cd ../
 
 cp ./lib/libglfw3.a $OUT_DIR
+cp ./lib/libglfw3.a $DEPS_DIR
