@@ -1,0 +1,11 @@
+[package]
+
+name = "glfw-native"
+version = "0.0.0"
+authors = ["TyOverby <ty@pre-alpha.com>"]
+
+build = "bash ./build.sh"
+
+[[lib]]
+name = "__dummy__"
+path = "./dummy.rs"
