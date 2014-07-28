@@ -1,1 +1,1 @@
-#[link(name="glfw3")]
+#![link(name="glfw3")]
