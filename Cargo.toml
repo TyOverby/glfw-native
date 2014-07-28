@@ -9,3 +9,4 @@ build = "bash ./build.sh"
 [[lib]]
 name = "__dummy__"
 path = "./dummy.rs"
+crate-types = [ "dylib" ]
